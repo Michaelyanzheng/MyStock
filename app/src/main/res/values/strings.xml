@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyStock</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="stock_code">Stock Code</string>
+    <string name="please_into_stock_code">please input stock code</string>
+    <string name="stock_name">股票名称 ：</string>
+    <string name="stock_code_chinese">股票名称 ：</string>
+    <string name="todaystartpri">今天开盘 ：</string>
+    <string name="todaymax">今天最高 ：</string>
+    <string name="yestodendpri">昨日收盘 ：</string>
+    <string name="todaymin">今日最低 ：</string>
+    <string name="tranumber">成交量 ：</string>
+    <string name="rate">涨跌率 ：</string>
+    <string name="traamount">成交额 ：</string>
+    <string name="min">分时K线图</string>
+    <string name="day">日K线图</string>
+    <string name="week">周K线图</string>
+    <string name="mouth">月K线图</string>
+    <string name="nowpri">当前价格 ：</string>
+    <string name="title_activity_tabs">Tabs</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+</resources>
